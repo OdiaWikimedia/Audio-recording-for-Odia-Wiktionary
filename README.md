@@ -10,4 +10,4 @@ Todo:
 Link back to the tamil wiktionary page is still pending.
 
 Attribution:
-This is based on the [https://github.com/tshrinivasan/voice-recorder-for-tawictionary] (Voice recorder for Tawiktionary) project created by Shrinivasan T.
+This is based on the [Voice recorder for Tawiktionary] (https://github.com/tshrinivasan/voice-recorder-for-tawictionary) project created by Shrinivasan T.
