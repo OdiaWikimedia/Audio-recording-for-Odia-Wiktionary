@@ -1,64 +1,13 @@
-Voice Recorder for Tamil Wiktionary
+Audio recording for Odia Wiktionary
 ===================================
 
-Wiktionary.org is a wikipedia project to provide the dictionary service for words.
+Odia Wiktionary is an online dictionary that shows meaning of other language words in Odia apart from Odia-language words. Being a dictionary audio recordings are very essential for the words. This tool helps record pronunciation of words and upload them to Wiktionary page.
 
-http://ta.wiktionary.org provides Tamil meaning for English words.
-
-
-Check this page:
-http://ta.wiktionary.org/wiki/tiny
-
-It shows the word, gives its meaning in tamil and has an audio file link, on how to pronounce it.
-We can click the file and play it to hear the pronounciation.
-
-Tamil Wiktionary has around one lakh words.
-only few words have the audio files to hear them.
-
-To add an audio file in the wiktionary page,
-1. see the word
-2. read it and record in ogg format
-3. upload to wikipedia commons
-4. link in the same page for the audio file.
-
-Doing these will be a boring task to do them all manually.
-
-Think of a system, 
-which shows you a word, 
-you spell it.
-it records it as ogg.
-uploads to commons
-links it to the wiktionary page.
-
-Your only task is to spell it.
-
-
-We can do this system using python.
-
-Here is the small application which does the above said.
-
-see in action.
-
-Tamil - http://www.youtube.com/watch?v=7a5Iv_ol1So
-English - http://www.youtube.com/watch?v=zd4KNbNX4_Y
+* [Tutorial to learn and use it] (http://www.youtube.com/watch?v=zd4KNbNX4_Y) (in English)
 
 Todo:
 
 Link back to the tamil wiktionary page is still pending.
 
-
-
-
-
-Contact:
-========
-Shrinivasan T
-tshrinivasan@gmail.com
-http://goinggnu.wordpress.com
-
-
-
-
-
-
-
+Attribution:
+This is based on the [https://github.com/tshrinivasan/voice-recorder-for-tawictionary] (Voice recorder for Tawiktionary) project created by Shrinivasan T.
