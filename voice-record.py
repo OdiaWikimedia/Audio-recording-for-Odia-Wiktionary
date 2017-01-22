@@ -33,7 +33,7 @@ def process_word():
 	print "\n"
 	print "\n"
 
-	confirm = raw_input("Do you confirm the recording? Y/N : ")
+	confirm = raw_input("Save the recording? Y/N : ")
 	confirm = confirm.lower()
 	
 	if confirm == 'y':
@@ -67,7 +67,7 @@ def process_next_word():
 	print "\n"
 	print "\n"
 
-        next_word = raw_input( "Are you ready for next word? Y/N : ")
+        next_word = raw_input( "Ready for next word? Y/N : ")
 
         next_word = next_word.lower()
         if next_word ==  'y':
