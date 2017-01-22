@@ -26,7 +26,7 @@ def record_audio(filename):
 	for i in range(0, RATE / chunk * RECORD_SECONDS):
     		data = stream.read(chunk)
     		all.append(data)
-	print "* done recording"
+	print "* Recording complete."
 
 	stream.close()
 	p.terminate()
