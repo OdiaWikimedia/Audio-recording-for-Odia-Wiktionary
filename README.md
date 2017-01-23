@@ -6,8 +6,10 @@ Kathabhidhana: Audio recording for Odia Wiktionary
 * [Tutorial to learn and use it] (http://www.youtube.com/watch?v=zd4KNbNX4_Y) (in English)
 * [Audio recording of words that were made using this tool] (https://commons.wikimedia.org/wiki/Category:Audio_files_created_using_Kathabhidhana)
 
-Attribution:
+Attribution
+-----------
 This is based on the [Voice recorder for Tawiktionary] (https://github.com/tshrinivasan/voice-recorder-for-tawictionary) project created by Shrinivasan T.
 
-Other resources:
+Other resources
+--------------
 * [Pronuncify by Asaf Bartov] (https://github.com/abartov/pronuncify), a similar command line tool for both Linux/Mac and Windows.
