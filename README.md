@@ -8,3 +8,6 @@ Kathabhidhana: Audio recording for Odia Wiktionary
 
 Attribution:
 This is based on the [Voice recorder for Tawiktionary] (https://github.com/tshrinivasan/voice-recorder-for-tawictionary) project created by Shrinivasan T.
+
+Other resources:
+* [Pronuncify by Asaf Bartov] (https://github.com/abartov/pronuncify), a similar command line tool for both Linux/Mac and Windows.
