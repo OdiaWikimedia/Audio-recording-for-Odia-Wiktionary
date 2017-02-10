@@ -1,7 +1,9 @@
 Kathabhidhana: Audio recording for Odia Wiktionary
 ===================================
 
-[Odia Wiktionary] (https://or.wiktionary.org) is an online dictionary that shows meaning of other language words in Odia apart from Odia-language words. Being a dictionary audio recordings are very essential for the words. This tool helps record pronunciation of words and upload them to [Wikimedia Commons] (https://commons.wikimedia.org/wiki/Category:Odia_pronunciation).
+Kathabhidhana is a community project to create an open source solution for recording large chunks of words (and then uploading them under open licenses so that they can useful for projects like [Wiktionary]). The project draws its inspiration largely from another [software] (https://github.com/tshrinivasan/voice-recorder-for-tawictionary) created by by [Shrinivasan T] (https://github.com/tshrinivasan).
+
+Currently several Odia-language words are being [recorded] (https://commons.wikimedia.org/wiki/Category:Odia_pronunciation), uploaded on [Wikimedia Commons] (https://commons.wikimedia.org), and are being used in [Odia Wiktionary] (https://or.wiktionary.org), an online dictionary that shows meaning of other language words in Odia apart from Odia-language words.
 
 * [Tutorial to learn and use it] (http://www.youtube.com/watch?v=zd4KNbNX4_Y) (in English)
 * [Audio recording of words that were made using this tool] (https://commons.wikimedia.org/wiki/Category:Audio_files_created_using_Kathabhidhana)
