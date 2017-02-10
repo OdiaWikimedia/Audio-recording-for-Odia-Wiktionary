@@ -42,7 +42,7 @@ Attribution
 -----------
 * Project led by Subhashish Panigrahi. All the media and text content are available under a [CC-BY-SA 4.0] (https://creativecommons.org/licenses/by-sa/4.0/) license
 * All the software component is licensed under [GNU General Public License (GPL) version 3] (https://www.gnu.org/licenses/gpl.html)
-*** This project and part of the documentation are based on the [Voice recorder for Tawiktionary] (https://github.com/tshrinivasan/voice-recorder-for-tawictionary) project created by [Shrinivasan T] (https://github.com/tshrinivasan) (Please attribute Shrinivasan T if you're making a derivative of the software)
+* This project and part of the documentation are based on the [Voice recorder for Tawiktionary] (https://github.com/tshrinivasan/voice-recorder-for-tawictionary) project created by [Shrinivasan T] (https://github.com/tshrinivasan) (Please attribute Shrinivasan T if you're making a derivative of the software)***
 
 Other resources
 --------------
