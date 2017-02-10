@@ -11,7 +11,7 @@ Currently several Odia-language words are being [recorded] (https://commons.wiki
 * [Tutorial to learn and use it] (http://www.youtube.com/watch?v=zd4KNbNX4_Y) (in English)
 * [Audio recording of words that were made using this tool] (https://commons.wikimedia.org/wiki/Category:Audio_files_created_using_Kathabhidhana)
 
-<i>An Odia version of the resources and tutorial is available [here](https://or.wiktionary.org/s/ppq). We are currently working on building more tutorials so that you can learn more about bettering your home studio setup—ssuming you don't have access to a fancy recording studio but if you have please do leverage that, tips and tricks about batch renaming files, cleaning up using open source tools like Audacity, setting up files for batch upload on Wikimedia Commons, etc. So stay tuned.</i> 
+<i>An Odia version of the resources and tutorial is available [here](https://or.wiktionary.org/s/ppq). We are currently working on building more tutorials so that you can learn more about bettering your home studio setup—ssuming you don't have access to a fancy recording studio but if you have please do leverage that, tips and tricks about batch renaming files, cleaning up using open source tools like [Audacity] (http://www.audacityteam.org/download/), setting up files for batch upload on Wikimedia Commons, etc. So stay tuned.</i> 
 
 How to install?
 --------------
@@ -21,6 +21,7 @@ Read from [here](https://github.com/OdiaWikimedia/Kathabhidhana/blob/master/inst
 
 How to execute?
 --------------
+(<i>you need to run the command in Linux or Mac, or Linux in a [virtual machine] (https://en.wikipedia.org/wiki/Virtual_machine) if you're on Windows</i>)
 [<i>Read in Odia</i>] (https://goo.gl/hqXeG3)
 
 1. Fill the words you want to recoed in a textfile named "file"
