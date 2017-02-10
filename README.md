@@ -1,5 +1,6 @@
 Kathabhidhana: Audio recording for Odia Wiktionary
 ===================================
+![alt tag](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/A_home_recording_setup_for_the_Kathabhidhana_project_for_Wiktionary.jpg/250px-A_home_recording_setup_for_the_Kathabhidhana_project_for_Wiktionary.jpg)
 
 Kathabhidhana is a community project to create an open source solution for recording large chunks of words (and then uploading them under open licenses so that they can useful for projects like [Wiktionary]). The project draws its inspiration largely from another [software] (https://github.com/tshrinivasan/voice-recorder-for-tawictionary) created by by [Shrinivasan T] (https://github.com/tshrinivasan).
 
