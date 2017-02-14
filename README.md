@@ -14,7 +14,7 @@ Currently several Odia-language words are being [recorded] (https://commons.wiki
 
 <i>An Odia version of the resources and tutorial is available [here](https://or.wiktionary.org/s/ppq). We are currently working on building more tutorials so that you can learn more about bettering your home studio setup—ssuming you don't have access to a fancy recording studio but if you have please do leverage that, tips and tricks about batch renaming files, cleaning up using open source tools like [Audacity] (http://www.audacityteam.org/download/), setting up files for batch upload on Wikimedia Commons, etc. So stay tuned.</i> 
 
-Prerequisite
+Prerequisites
 --------------
 * Linux or MacOS
 * Linux running in a virtual machine
