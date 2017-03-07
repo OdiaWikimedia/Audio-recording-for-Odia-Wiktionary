@@ -6,7 +6,7 @@ Kathabhidhana for iOS : Audio recording for Odia Wikitionary
 
 ![Kathabhidhana workflow](https://github.com/pattaprateek/Kathabhidhana/blob/master/Kathabhidhana%20for%20iOS/IMG_9475.JPG)
 
-The Kathabhidhana workflow allows recording multiple words from a wordlist one-by-one using the Workflow app. You can download the <b>.wflow</b> file in this repo or from the [official directory](https://workflow.is/workflows/acb7f3c267754b2ca84839d68fb52eef). It can recrod word at an average speed of 5 wpm.
+The Kathabhidhana workflow allows recording multiple words from a wordlist one-by-one using the Workflow app. You can download the <b>.wflow</b> file in this repo or from the [official directory](https://workflow.is/workflows/acb7f3c267754b2ca84839d68fb52eef). It can record words at an average speed of 5 wpm.
 
 <i>While a better mic is always preferrable, the inbuilt mic on an Apple device is good enough. The audio files can then be cleaned using an audio-editing program, such as the open-source [Audacity](http://www.audacityteam.org/). Also, supported microphones can send their input directly to iOS, such as the [Blue Yeti](http://www.bluemic.com/products/yeti/). You may want to look into such products to get a more professional recording.</i>
 
