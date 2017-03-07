@@ -28,6 +28,7 @@ Extra Information
 - With Split View on iOS, you can keep a document provider open side-by-side the Workflow app to export files continuously without jumping between apps too many times.
 - You can change the naming pattern in the 'Rename' block.
 - For the IFTTT integration, you need to grant workflow access to your IFTTT account and create a custom applet.
+- For batch-uploading these files to Wikimedia Commons, you may use [Pattypan](https://commons.wikimedia.org/wiki/Commons:Pattypan). Ensure that the spreadsheet being automatically generated is set to a format that can be directly imported into Pattypan.
 
 Attribution
 -----
