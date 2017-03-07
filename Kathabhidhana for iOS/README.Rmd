@@ -4,6 +4,8 @@ Kathabhidhana for iOS : Audio recording for Odia Wikitionary
 
 [Workflow](https://workflow.is) is an iOS app that allows building complex automations through a visual interface.
 
+![Kathabhidhana workflow](https://github.com/pattaprateek/Kathabhidhana/blob/master/Kathabhidhana%20for%20iOS/IMG_9475.JPG)
+
 The Kathabhidhana workflow allows recording multiple words from a wordlist one-by-one using the Workflow app.You can download the <b>.wflow</b> file in this repo or from the [official directory](https://workflow.is/workflows/acb7f3c267754b2ca84839d68fb52eef).
  
  
