@@ -11,8 +11,8 @@ The Kathabhidhana workflow allows recording multiple words from a wordlist one-b
 <i>While a better mic is always preferrable, the inbuilt mic on an Apple device is good enough. The audio files can then be cleaned using an audio-editing program, such as the open-source [Audacity](http://www.audacityteam.org/). Also, supported microphones can send their input directly to iOS, such as the [Blue Yeti](http://www.bluemic.com/products/yeti/). You may want to look into such products to get a more professional recording.</i>
 
  
- How to execute
- -----
+How to execute
+-----
 1. Ensure that you have the Workflow app installed. Download the <i>Kathabhidhana for iOS</i> workflow from the above links.
 2. Run the Kathabhidhana workflow inside the app.
 3. The workflow will prompt you to enter the wordlist that is to be recorded. 
@@ -20,7 +20,7 @@ The Kathabhidhana workflow allows recording multiple words from a wordlist one-b
 5. The recording is played back to you instantly. You can directly export the audio file or re-record it if it does not sound right. 
 6. The recording is exported to a document provider with the specified metadata. Each time you record a new word, a new record is added to the specified Google Sheet using IFTTT, containing the details of each file.
 
-Handy Tricks
+Extra Information
 -----
 - You can type the list of words in the text entry field. If you had copied a selection from a previously existing wordlist, it will be automatically added to the text field from the clipboard. (You can delete the clipboard text if you want)
 - Each word in the wordlist must be distinguished by using some special character like a hyphen or a newline. The default is set to a newline so that the algorithm splits them up line-by-line. You can change it to any custom character.
