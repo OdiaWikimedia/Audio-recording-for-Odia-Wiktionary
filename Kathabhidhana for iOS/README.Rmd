@@ -30,4 +30,4 @@ Handy Tricks
 Attribution
 -----
 * Project led by Prateek Pattanaik. All the media and text content are available under a [CC-BY-SA 4.0] (https://creativecommons.org/licenses/by-sa/4.0/) license.
-* This algorithm was designed to be familiar to people who have used [Kathabhidhana](https://github.com/OdiaWikimedia/Kathabhidhana) by [Subhashish Panigrahi](https://github.com/psubhashish) and [Voice Recorder for Tamil Wikitionary](https://github.com/tshrinivasan/voice-recorder-for-tawictionary) by [T. Shrinivasan](https://github.com/tshrinivasan). 
+* This algorithm was designed to be familiar to people who have used [Kathabhidhana](https://github.com/OdiaWikimedia/Kathabhidhana) by [Subhashish Panigrahi](https://github.com/psubhashish) and [Voice Recorder for Tamil Wikitionary](https://github.com/tshrinivasan/voice-recorder-for-tawictionary) by [T. Shrinivasan](https://github.com/tshrinivasan) and hence derives a lot from these projects.
