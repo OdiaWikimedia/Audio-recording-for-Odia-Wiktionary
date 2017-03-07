@@ -25,7 +25,8 @@ Extra Information
 - You can type the list of words in the text entry field. If you had copied a selection from a previously existing wordlist, it will be automatically added to the text field from the clipboard. (You can delete the clipboard text if you want)
 - Each word in the wordlist must be distinguished by using some special character like a hyphen or a newline. The default is set to a newline so that the algorithm splits them up line-by-line. You can change it to any custom character.
 - You can also set a fixed time for each recording so that it is automatically stopped after the given duration elapses.
-- With Split View on iOS, you can keep a documsnt provider open side-by-side the Workflow app to export files without jumping between apps too many times.
+- With Split View on iOS, you can keep a document provider open side-by-side the Workflow app to export files continuously without jumping between apps too many times.
+- You can change the naming pattern in the 'Rename' block.
 - For the IFTTT integration, you need to grant workflow access to your IFTTT account and create a custom applet.
 
 Attribution
