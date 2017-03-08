@@ -16,14 +16,12 @@ Currently several Odia-language words are being [recorded] (https://commons.wiki
 
 Prerequisites
 --------------
+<b>Using a computer?</b>
 * Linux or macOS
 * Linux running in a virtual machine
-* If you are looking for a iOS-based (iPad/iPhone) solution check [this] (https://github.com/pattaprateek/Kathabhidhana/tree/master/Kathabhidhana%20for%20iOS)
 
-<b>or</b>
-
-For Kathabhidhana for iOS
-* iOS
+<b>Using an iOS device? ([check more here] (https://github.com/pattaprateek/Kathabhidhana/tree/master/Kathabhidhana%20for%20iOS))</b>
+* iOS (iPad or iPhone)
 * An app called Workflow
 
 How to execute?
@@ -48,7 +46,7 @@ python mediawiki-uploader.py
 
 Attribution
 -----------
-* Project led by Subhashish Panigrahi. All the media and text content are available under a [CC-BY-SA 4.0] (https://creativecommons.org/licenses/by-sa/4.0/) license
+* Project led by Subhashish Panigrahi, the iOS tool is led by Prateek Pattanaik. All the media and text content are available under a [CC-BY-SA 4.0] (https://creativecommons.org/licenses/by-sa/4.0/) license
 * All the software component is licensed under [GNU General Public License (GPL) version 3] (https://www.gnu.org/licenses/gpl.html)
 * This project and part of the documentation are based on the [Voice recorder for Tawiktionary] (https://github.com/tshrinivasan/voice-recorder-for-tawictionary) project created by [Shrinivasan T] (https://github.com/tshrinivasan) (Please attribute Shrinivasan T if you're making a derivative of the software)***
 
