@@ -1,0 +1,39 @@
+Kathabhidhana for iOS : Audio recording for Odia Wikitionary
+===================================
+<i>This is a guide to recording words for Odia Wikitionary in an iOS environment using an iOS app called <b>Workflow</b> along with the online automation service [IFTTT](https://ifttt.com/).</i>
+
+[Workflow](https://workflow.is) is an iOS app that allows building complex automations through a visual interface.
+
+![Kathabhidhana workflow](https://github.com/pattaprateek/Kathabhidhana/blob/master/Kathabhidhana%20for%20iOS/IMG_9475.JPG)
+
+The Kathabhidhana workflow allows recording multiple words from a wordlist one-by-one using the Workflow app. You can download the <b>.wflow</b> file in this repo or from the [official directory](https://workflow.is/workflows/acb7f3c267754b2ca84839d68fb52eef). It can record words at an average speed of 5 wpm.
+
+<i>While a better mic is always preferrable, the inbuilt mic on an Apple device is good enough. The audio files can then be cleaned using an audio-editing program, such as the open-source [Audacity](http://www.audacityteam.org/). Also, supported microphones can send their input directly to iOS, such as the [Blue Yeti](http://www.bluemic.com/products/yeti/). You may want to look into such products to get a more professional recording.</i>
+
+ 
+How to execute
+-----
+1. Ensure that you have the Workflow app installed. Download the <i>Kathabhidhana for iOS</i> workflow from the above links.
+2. Run the Kathabhidhana workflow inside the app.
+3. The workflow will prompt you to enter the wordlist that is to be recorded. 
+4. Once done, the workflow prompts you to record the first word. The word is displayed in a native iOS notification. Tap once to start recording and tap again to stop the recording. 
+5. The recording is played back to you instantly. You can directly export the audio file or re-record it if it does not sound right. 
+6. The recording is exported to a document provider with the specified metadata. Each time you record a new word, a new record is added to the specified Google Sheet using IFTTT, containing the details of each file.
+
+Extra Information
+-----
+- You can type the list of words in the text entry field. If you had copied a selection from a previously existing wordlist, it will be automatically added to the text field from the clipboard. (You can delete the clipboard text if you want)
+- Each word in the wordlist must be distinguished by using some special character like a hyphen or a newline. The default is set to a newline so that the algorithm splits them up line-by-line. You can change it to any custom character.
+- You can also set a fixed time for each recording so that it is automatically stopped after the given duration elapses.
+- With Split View on iOS, you can keep a document provider open side-by-side the Workflow app to export files continuously without jumping between apps too many times.
+- You can change the naming pattern in the 'Rename' block.
+- For the IFTTT integration, you need to grant workflow access to your IFTTT account and create a custom applet.
+- For batch-uploading these files to Wikimedia Commons, you may use [Pattypan](https://commons.wikimedia.org/wiki/Commons:Pattypan). Ensure that the spreadsheet being automatically generated is set to a format that can be directly imported into Pattypan.
+
+Attribution
+-----
+* Project led by [Prateek Pattanaik](https://github.com/pattaprateek). All the media and text content are available under a [CC-BY-SA 4.0] (https://creativecommons.org/licenses/by-sa/4.0/) license.
+* This algorithm was designed to be familiar to people who have used [Kathabhidhana](https://github.com/OdiaWikimedia/Kathabhidhana) by [Subhashish Panigrahi](https://github.com/psubhashish) and [Voice Recorder for Tamil Wikitionary](https://github.com/tshrinivasan/voice-recorder-for-tawictionary) by [T. Shrinivasan](https://github.com/tshrinivasan) and hence derives a lot from these projects.
+
+=====
+<i>Contact me [@pattaprateek](https://twitter.com/pattaprateek) on Twitter if you have a question to ask.</i>

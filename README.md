@@ -1,6 +1,6 @@
 Kathabhidhana: Audio recording for Odia Wiktionary
 ===================================
-What comes to your mind when you think of a dictionary? A boring huge book that you never wanted to open? Or may be a mobile app that you open while struggling with understanding a few new words in any write-up? But think of a dictionary that also pronounces the words rather than just showing them in [International Phonetic Alphabet] (https://en.wikipedia.org/wiki/International_Phonetic_Alphabet) (IPA).
+What comes to your mind when you think of a dictionary? A huge boring book that you never wanted to open? Or may be a mobile app that you open while struggling with understanding a few new words in any write-up? But think of a dictionary that also pronounces the words rather than just showing them in [International Phonetic Alphabet] (https://en.wikipedia.org/wiki/International_Phonetic_Alphabet) (IPA).
 
 Wikipedia has a sister project called [Wiktionary](https://wiktionary.org). And it's multilingual. Though it's easier to search any word in Google with a suffix "meaning" to hear the pronunciation of the word, there are not many [open-licensed] (https://en.wikipedia.org/wiki/Open_Content_License) audio recordings that you can hear, download, and even use for your own work. <b>Kathabhidhana</b> is a community project led by [Subhashish Panigrahi] (http://meta.wikimedia.org/wiki/User:Psubhashish/) to create an open source solution for recording large chunks of words and then uploading them under open licenses so that they can useful for projects like Wiktionary. The project draws its inspiration largely from another open source [software] (https://github.com/tshrinivasan/voice-recorder-for-tawictionary) created by by [Shrinivasan T] (https://github.com/tshrinivasan).
 
@@ -12,12 +12,18 @@ Currently several Odia-language words are being [recorded] (https://commons.wiki
 * [Audio recording of words that were made using this tool] (https://commons.wikimedia.org/wiki/Category:Audio_files_created_using_Kathabhidhana)
 * An [ideal format needed for uploading multiple file](https://docs.google.com/spreadsheets/d/1Vh08Dd6V743Q58ceCnNLc9BASaZQMAsGu1BOaa_dMQQ/edit?usp=sharing)
 
-<i>An Odia version of the resources and tutorial is available [here](https://or.wiktionary.org/s/ppq). We are currently working on building more tutorials so that you can learn more about bettering your home studio setup—ssuming you don't have access to a fancy recording studio but if you have please do leverage that, tips and tricks about batch renaming files, cleaning up using open source tools like [Audacity] (http://www.audacityteam.org/download/), setting up files for batch upload on Wikimedia Commons, etc. So stay tuned.</i> 
+<i>An Odia version of the resources and tutorial is available [here](https://or.wiktionary.org/s/ppq). We are currently working on building more tutorials so that you can learn more about bettering your home studio setup—assuming you don't have access to a fancy recording studio but if you have please do leverage that, tips and tricks about batch renaming files, cleaning up using open source tools like [Audacity] (http://www.audacityteam.org/download/), setting up files for batch upload on Wikimedia Commons, etc. So stay tuned.</i> 
 
 Prerequisites
 --------------
-* Linux or MacOS
+* Linux or macOS
 * Linux running in a virtual machine
+
+<b>or</b>
+
+For Kathabhidhana for iOS
+* iOS
+* An app called Workflow
 
 How to execute?
 --------------
