@@ -18,6 +18,7 @@ Prerequisites
 --------------
 * Linux or macOS
 * Linux running in a virtual machine
+* If you are looking for a iOS-based (iPad/iPhone) solution check [this] (https://github.com/pattaprateek/Kathabhidhana/tree/master/Kathabhidhana%20for%20iOS)
 
 <b>or</b>
 
