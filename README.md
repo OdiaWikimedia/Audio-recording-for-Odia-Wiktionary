@@ -32,17 +32,15 @@ How to execute?
 1. Fill the words you want to recoed in a textfile named "file"
 2. run the below command
 
-python voice-record.py 2> err
+First dive into the folder, for instance it is the "Kathabhidhana" folder under "Documents for me:
+![alt tag](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Kathabhidhana_-_starting_the_tool.png/800px-Kathabhidhana_-_starting_the_tool.png)
+Then run:
+<code>python voice-record.py</code>
 
-this will record the sounds in ogg and wav formats.
+The next steps are quite self-explainatory. You need to choose "Y" for yes and "N" for no in the following options inside your terminal.
 
 3. To upload all the ogg files to Wikimedia Commons
-
-3. a) Edit the file mediawiki-uploader.py 
-Fill the commons api url, username and password
-
-3. b) run the below command
-python mediawiki-uploader.py
+This will record the sounds in .ogg and .wav formats. You can then use a tool like [Pattypan](https://github.com/yarl/pattypan) to batch-upload either the .WAV or the .ogg files on Wikimedia Commons.
 
 Attribution
 -----------
