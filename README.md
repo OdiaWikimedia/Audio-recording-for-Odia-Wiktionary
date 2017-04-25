@@ -34,6 +34,7 @@ How to execute?
 
 First dive into the folder, for instance it is the "Kathabhidhana" folder under "Documents for me:
 ![alt tag](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Kathabhidhana_-_starting_the_tool.png/800px-Kathabhidhana_-_starting_the_tool.png)
+
 Then run:
 <code>python voice-record.py</code>
 
