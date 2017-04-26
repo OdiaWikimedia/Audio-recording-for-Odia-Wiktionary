@@ -1,8 +1,8 @@
 Kathabhidhana: Audio recording for Odia Wiktionary
 ===================================
-What comes to your mind when you think of a dictionary? A huge boring book that you never wanted to open? Or may be a mobile app that you open while struggling with understanding a few new words in any write-up? But think of a dictionary that also pronounces the words rather than just showing them in [International Phonetic Alphabet](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet) (IPA) without any ad. Also, think of an open source version of Siri or Google Assistant or Kortana that you can not just use but also can change and make it speak your dialect in a human voice. For all of these you would need a huge pronunciation library in an open standard. Furthermore, India, my home country alone is home to 15 million visually disabled people that currently do not have open source assistant in their language with a human voice.
+What comes to your mind when you think of a dictionary? A huge boring book that you never wanted to open? Or maybe a mobile app that you open while struggling with understanding a few new words in any write-up? But think of a dictionary that also pronounces the words rather than just showing them in [International Phonetic Alphabet](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet) (IPA), and without any advertisements. Also, think of an open source version of Siri or Google Assistant or Kortana that you can not just use but also can change and make it speak your dialect in a human voice. For all of these you would need a huge pronunciation library in an open standard. Furthermore, India, my home country alone is home to 15 million visually disabled people that currently do not have open source assistant in their language with a human voice.
 
-Wikipedia has a sister project called [Wiktionary](https://wiktionary.org). And it's multilingual. Though it's easier to search any word in Google with a suffix "meaning" to hear the pronunciation of the word, there are not many [open-licensed](https://en.wikipedia.org/wiki/Open_Content_License) audio recordings that you can hear, download, and even use for your own work. <b>Kathabhidhana</b> is a community project led by [Subhashish Panigrahi](http://meta.wikimedia.org/wiki/User:Psubhashish/) to create an open source solution for recording large chunks of words and then uploading them under open licenses so that they can useful for projects like Wiktionary. We have burrowed the code for one of the software components from a [software](https://github.com/tshrinivasan/voice-recorder-for-tawictionary) created by by [Shrinivasan T](https://github.com/tshrinivasan). The [iOS version](https://github.com/OdiaWikimedia/Kathabhidhana/tree/master/Kathabhidhana%20for%20iOS) of Kathabhidhana was created by Prateek Pattanaik.
+Wikipedia has a sister project called [Wiktionary](https://wiktionary.org). And it's multilingual. Though it's easier to search any word in Google with a suffix "meaning" to hear the pronunciation of the word, there are not many [open-licensed](https://en.wikipedia.org/wiki/Open_Content_License) audio recordings that you can hear, download, and even use for your own work. <b>Kathabhidhana</b> is a community project led by [Subhashish Panigrahi](http://meta.wikimedia.org/wiki/User:Psubhashish/) to create an open source solution for recording large chunks of words and then uploading them under open licenses so that they can be useful for projects like Wiktionary. We have borrowed the code for one of the software components from a [software](https://github.com/tshrinivasan/voice-recorder-for-tawictionary) created by by [Shrinivasan T](https://github.com/tshrinivasan). The [iOS version](https://github.com/OdiaWikimedia/Kathabhidhana/tree/master/Kathabhidhana%20for%20iOS) of Kathabhidhana was created by Prateek Pattanaik.
 
 Currently several Odia-language words are being [recorded](https://commons.wikimedia.org/wiki/Category:Odia_pronunciation), uploaded on [Wikimedia Commons](https://commons.wikimedia.org), and are being used in [Odia Wiktionary](https://or.wiktionary.org), the Odia-language version of Wiktionary. The purpose of creating this audio library is multi-folded—apart from using them on Wiktionary, we also aim at using them for any [Natural Language Processing](http://en.wikipedia.org/wiki/Natural_Language_Processing) (NLP) project (and you are free to use [with attribution](https://github.com/OdiaWikimedia/Kathabhidhana/blob/master/README.md#attribution) any resource available in this page).
 
@@ -12,7 +12,7 @@ Currently several Odia-language words are being [recorded](https://commons.wikim
 * [Audio recording of words that were made using this tool](https://commons.wikimedia.org/wiki/Category:Audio_files_created_using_Kathabhidhana)
 * An [ideal format needed for uploading multiple file](https://docs.google.com/spreadsheets/d/1Vh08Dd6V743Q58ceCnNLc9BASaZQMAsGu1BOaa_dMQQ/edit?usp=sharing)
 
-<i>An Odia version of the resources and tutorial is available [here](https://or.wiktionary.org/s/ppq). We are currently working on building more tutorials so that you can learn more about bettering your home studio setup—assuming you don't have access to a fancy recording studio but if you have please do leverage that, tips and tricks about batch renaming files, cleaning up using open source tools like [Audacity](http://www.audacityteam.org/download/), setting up files for batch upload on Wikimedia Commons, etc. So stay tuned.</i> 
+<i>An Odia version of the resources and tutorial is available [here](https://or.wiktionary.org/s/ppq). We are currently working on building more tutorials so that you can learn more about bettering your home studio setup, assuming you don't have access to a fancy recording studio (if you do have access to a fancy recording studio please leverage that resource), tips and tricks about batch renaming files, cleaning up using open source tools like [Audacity](http://www.audacityteam.org/download/), setting up files for batch upload on Wikimedia Commons, etc. So stay tuned.</i> 
 
 Prerequisites
 --------------
@@ -29,7 +29,7 @@ How to execute?
 (<i>you need to run the command in Linux or Mac, or Linux in a [virtual machine](https://en.wikipedia.org/wiki/Virtual_machine) if you're on Windows</i>)
 [<i>Read in Odia</i>](https://goo.gl/hqXeG3)
 
-1. Fill the words you want to recoed in a textfile named "file"
+1. Fill the words you want to record in a textfile named "file"
 2. run the below command
 
 First dive into the folder, for instance it is the "Kathabhidhana" folder under "Documents for me:
@@ -38,7 +38,7 @@ First dive into the folder, for instance it is the "Kathabhidhana" folder under 
 Then run:
 <code>python voice-record.py</code>
 
-The next steps are quite self-explainatory. You need to choose "Y" for yes and "N" for no in the following options inside your terminal.
+The next steps are quite self-explanatory. You need to choose "Y" for yes and "N" for no in the following options inside your terminal.
 
 3. To upload all the ogg files to Wikimedia Commons
 This will record the sounds in .ogg and .wav formats. You can then use a tool like [Pattypan](https://github.com/yarl/pattypan) to batch-upload either the .WAV or the .ogg files on Wikimedia Commons.
