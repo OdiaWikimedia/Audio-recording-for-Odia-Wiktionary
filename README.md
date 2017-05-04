@@ -1,6 +1,6 @@
 Kathabhidhana: Open Source toolkit to record large number of words in any language
 ===================================
-![alt tag](https://www.youtube.com/watch?v=UGMxwPtqDJY)
+[alt tag](https://www.youtube.com/watch?v=UGMxwPtqDJY)
 
 What comes to your mind when you think of a dictionary? A huge boring book that you never wanted to open? Or maybe a mobile app that you open while struggling with understanding a few new words in any write-up? But think of a dictionary that also pronounces the words rather than just showing them in [International Phonetic Alphabet](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet) (IPA), and without any advertisements. Also, think of an open source version of Siri or Google Assistant or Kortana that you can not just use but also can change and make it speak your dialect in a human voice. For all of these you would need a huge pronunciation library in an open standard. Furthermore, India, my home country alone is home to 15 million visually disabled people that currently do not have open source assistant in their language with a human voice.
 
