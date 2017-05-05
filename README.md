@@ -28,7 +28,7 @@ Prerequisites
 
 Step-by-step process
 --------------
-1. Download and set up Kathabhidhana (see the [next section](#Setting_up_Kathabhidhana))
+1. Download and set up Kathabhidhana (see the [next section](../README.md#step-by-step-process))
 2. Set up your recording hardware (see mine in the [picture](https://commons.wikimedia.org/wiki/File:Home-studio_recording_setup_for_Kathabhidhana_(wide).jpg) above) e.g. microphone (if using an external one), computer settings like level
 3. Record using Kathabhidhana
 4. Batch processing using Audacity (tutorial coming soon, download Audacity from [here](http://www.audacityteam.org/download/))
@@ -64,7 +64,8 @@ Findings so far
 
 Resources
 ----------
-
+* [Video introduction to Kathabhidhana](https://www.youtube.com/watch?v=UGMxwPtqDJY)
+* [Odia→International Phonetic Alphabet (IPA)/Roman converter](https://or.wikipedia.org/s/14jk): This is useful for adding phonetic signs in the metadata while uploading. Thiis link is for Odia. You can check the same for your language as well
 
 Attribution
 -----------
