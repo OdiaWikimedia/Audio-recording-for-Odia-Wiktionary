@@ -26,7 +26,16 @@ Prerequisites
 * iOS (iPad or iPhone)
 * An app called Workflow
 
-How to execute?
+Step-by-step process
+--------------
+1. Download and set up Kathabhidhana (see the [next section](https://github.com/OdiaWikimedia/Kathabhidhana#how-to-execute))
+2. Set up your recording hardware (see mine in the [picture](https://commons.wikimedia.org/wiki/File:Home-studio_recording_setup_for_Kathabhidhana_(wide).jpg) above) e.g. microphone (if using an external one), computer settings like level
+3. Record using Kathabhidhana
+4. Batch processing using Audacity (tutorial coming soon, download Audacity from [here](http://www.audacityteam.org/download/))
+5. Manual clean up of each file (tutorial coming up soon)
+6. Setting up [Pattypan](https://github.com/yarl/pattypan/releases) and upload files on Commons (download from [here](https://github.com/yarl/pattypan/releases))
+
+Setting up Kathabhidhana
 --------------
 (<i>you need to run the command in Linux or Mac, or Linux in a [virtual machine](https://en.wikipedia.org/wiki/Virtual_machine) if you're on Windows</i>)
 [<i>Read in Odia</i>](https://goo.gl/hqXeG3)
@@ -47,11 +56,15 @@ This will record the sounds in .ogg and .wav formats. You can then use a tool li
 
 Findings so far
 -----------
-* It takes about <b>20-25 mins<b> to record <b>100 words</b>
-* A batch processing to convert and do overall auto-cleanup using Audacity will take about 5 mins
-* It takes an average of <b>30 secs</b> for <b>1 word</b> to manually clean up, check quality, trim extra portions and other such editing work (meaning it will take about 45 mins to clean up a batch of 100 words) using Audacity
-* It takes about <b>5-10 mins</b> for setting up Pattypan to upload the cleaned up words on Wikimedia Commons
-* On an average one would spend roughly about <b>1.5 hrs</b> from recording to cleaning up to uploading for a batch of <b>100 words</b>
+* It takes about **20-25 mins** to record **100 words** 
+* A batch processing to convert and do overall auto-cleanup using Audacity will take about **5 mins** for a 100-word-batch
+* It takes an average of **30 secs** for **1 word** to manually clean up, check quality, trim extra portions and other such editing work (meaning it will take about **45 mins** to clean up a batch of 100 words) using Audacity
+* It takes about **5-10 mins** for setting up Pattypan to upload the cleaned up words on Wikimedia Commons
+* On an average one would spend roughly about **1.5 hrs** from recording to cleaning up to uploading for a batch of **100 words**
+
+Resources
+----------
+
 
 Attribution
 -----------
