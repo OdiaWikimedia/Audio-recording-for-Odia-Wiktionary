@@ -62,17 +62,15 @@ Resources
 ----------
 * [Video introduction to Kathabhidhana](https://www.youtube.com/watch?v=UGMxwPtqDJY)
 * [Odia→International Phonetic Alphabet (IPA)/Roman converter](https://or.wikipedia.org/s/14jk): This is useful for adding phonetic signs in the metadata while uploading. Thiis link is for Odia. You can check the same for your language as well
+***Other resources***
+* [Pronuncify by Asaf Bartov](https://github.com/abartov/pronuncify), a similar command line tool for both Linux/Mac and Windows.
+* [Sample Wikimedia Commons description](https://docs.google.com/spreadsheets/d/1Vh08Dd6V743Q58ceCnNLc9BASaZQMAsGu1BOaa_dMQQ/pub?output=ods) that you're free to download, replace with your details and use.
 
 Attribution
 -----------
 * Project led by Subhashish Panigrahi and the [iOS tool](https://github.com/OdiaWikimedia/Kathabhidhana/tree/master/Kathabhidhana%20for%20iOS) is led by Prateek Pattanaik. All the media and text content are available under a [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license
 * All the software component is licensed under [GNU General Public License (GPL) version 3](https://www.gnu.org/licenses/gpl.html) (read the [License](https://github.com/OdiaWikimedia/Kathabhidhana/blob/master/License.md) page for more details)
 * This project and part of the documentation are based on the [Voice recorder for Tawiktionary](https://github.com/tshrinivasan/voice-recorder-for-tawictionary) project created by [Shrinivasan T](https://github.com/tshrinivasan) (please attribute Shrinivasan T if you're making a derivative of the software)
-
-Other resources
---------------
-* [Pronuncify by Asaf Bartov](https://github.com/abartov/pronuncify), a similar command line tool for both Linux/Mac and Windows.
-* [Sample Wikimedia Commons description](https://docs.google.com/spreadsheets/d/1Vh08Dd6V743Q58ceCnNLc9BASaZQMAsGu1BOaa_dMQQ/pub?output=ods) that you're free to download, replace with your details and use.
 
 Shoutouts
 ----------
