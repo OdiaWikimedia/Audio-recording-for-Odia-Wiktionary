@@ -45,6 +45,14 @@ The next steps are quite self-explanatory. You need to choose "Y" for yes and "N
 3. To upload all the ogg files to Wikimedia Commons
 This will record the sounds in .ogg and .wav formats. You can then use a tool like [Pattypan](https://github.com/yarl/pattypan) to batch-upload either the .WAV or the .ogg files on Wikimedia Commons.
 
+Metrics
+-----------
+* It takes about <b>20-25 mins<b> to record <b>100 words</b>
+* A batch processing to convert and do overall auto-cleanup using Audacity will take about 5 mins
+* It takes an average of <b>30 secs</b> for <b>1 word</b> to manually clean up, check quality, trim extra portions and other such editing work (meaning it will take about 45 mins to clean up a batch of 100 words) using Audacity
+* It takes about 5-10 mins for setting up Pattypan to upload the cleaned up words on Wikimedia Commons
+* On an average one would spend roughly about 1.5 hrs from recording to cleaning up to uploading for a batch of 100 words
+
 Attribution
 -----------
 * Project led by Subhashish Panigrahi and the [iOS tool](https://github.com/OdiaWikimedia/Kathabhidhana/tree/master/Kathabhidhana%20for%20iOS) is led by Prateek Pattanaik. All the media and text content are available under a [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license
