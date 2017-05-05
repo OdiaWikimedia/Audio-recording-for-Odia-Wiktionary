@@ -28,7 +28,7 @@ Prerequisites
 
 Step-by-step process
 --------------
-1. Download and set up Kathabhidhana (see the [next section](https://github.com/OdiaWikimedia/Kathabhidhana#how-to-execute))
+1. Download and set up Kathabhidhana (see the [next section](#Setting_up_Kathabhidhana))
 2. Set up your recording hardware (see mine in the [picture](https://commons.wikimedia.org/wiki/File:Home-studio_recording_setup_for_Kathabhidhana_(wide).jpg) above) e.g. microphone (if using an external one), computer settings like level
 3. Record using Kathabhidhana
 4. Batch processing using Audacity (tutorial coming soon, download Audacity from [here](http://www.audacityteam.org/download/))
