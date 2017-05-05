@@ -56,7 +56,7 @@ This will record the sounds in .ogg and .wav formats. You can then use a tool li
 
 Findings so far
 -----------
-![alt tag](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Kathabhidhana_-_time_spent_for_the_entire_process.gif/320px-Kathabhidhana_-_time_spent_for_the_entire_process.gif) • It takes about **20-25 mins** to record **100 words**; A batch processing to convert and do overall auto-cleanup using Audacity will take about **5 mins** for a 100-word-batch; It takes an average of **30 secs** for **1 word** to manually clean up, check quality, trim extra portions and other such editing work (meaning it will take about **45 mins** to clean up a batch of 100 words) using Audacity; It takes about **5-10 mins** for setting up Pattypan to upload the cleaned up words on Wikimedia Commons; On an average one would spend roughly about **1.5 hrs** from recording to cleaning up to uploading for a batch of **100 words**
+![time-taken- small](https://cloud.githubusercontent.com/assets/1258090/25761708/6ad2fd1a-31f9-11e7-8e67-8b68ee9485bc.gif) • It takes about **20-25 mins** to record **100 words**; A batch processing to convert and do overall auto-cleanup using Audacity will take about **5 mins** for a 100-word-batch; It takes an average of **30 secs** for **1 word** to manually clean up, check quality, trim extra portions and other such editing work (meaning it will take about **45 mins** to clean up a batch of 100 words) using Audacity; It takes about **5-10 mins** for setting up Pattypan to upload the cleaned up words on Wikimedia Commons; On an average one would spend roughly about **1.5 hrs** from recording to cleaning up to uploading for a batch of **100 words**
 
 Resources
 ----------
