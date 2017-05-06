@@ -61,6 +61,7 @@ Findings so far
 Resources
 ----------
 * [Video introduction to Kathabhidhana](https://www.youtube.com/watch?v=UGMxwPtqDJY)
+* [Video tutorial: How-to run Kathabhidhana on iOS devices](https://www.youtube.com/watch?v=F-rmyZqKzrE&feature=youtu.be)
 * [Odia→International Phonetic Alphabet (IPA)/Roman converter](https://or.wikipedia.org/s/14jk): This is useful for adding phonetic signs in the metadata while uploading. Thiis link is for Odia. You can check the same for your language as well
 ***Other resources***
 * [Pronuncify by Asaf Bartov](https://github.com/abartov/pronuncify), a similar command line tool for both Linux/Mac and Windows.
