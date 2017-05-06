@@ -63,7 +63,8 @@ Resources
 * [Video introduction to Kathabhidhana](https://www.youtube.com/watch?v=UGMxwPtqDJY)
 * [Video tutorial: How-to run Kathabhidhana on iOS devices](https://www.youtube.com/watch?v=F-rmyZqKzrE&feature=youtu.be)
 * [Odia→International Phonetic Alphabet (IPA)/Roman converter](https://or.wikipedia.org/s/14jk): This is useful for adding phonetic signs in the metadata while uploading. Thiis link is for Odia. You can check the same for your language as well
-***Other resources***
+
+***Other similar resources***
 * [Pronuncify by Asaf Bartov](https://github.com/abartov/pronuncify), a similar command line tool for both Linux/Mac and Windows.
 * [Sample Wikimedia Commons description](https://docs.google.com/spreadsheets/d/1Vh08Dd6V743Q58ceCnNLc9BASaZQMAsGu1BOaa_dMQQ/pub?output=ods) that you're free to download, replace with your details and use.
 
@@ -73,7 +74,7 @@ Attribution
 * All the software component is licensed under [GNU General Public License (GPL) version 3](https://www.gnu.org/licenses/gpl.html) (read the [License](https://github.com/OdiaWikimedia/Kathabhidhana/blob/master/License.md) page for more details)
 * This project and part of the documentation are based on the [Voice recorder for Tawiktionary](https://github.com/tshrinivasan/voice-recorder-for-tawictionary) project created by [Shrinivasan T](https://github.com/tshrinivasan) (please attribute Shrinivasan T if you're making a derivative of the software)
 
-Shoutouts
+Blogs/media shoutouts
 ----------
 * Ojha, Bikash. Mishra, Chinmayee. Pattanaik, Prateek. Panigrahi, Subhashish. Patnaik, Sailesh. Elsharbaty, Samir. [Community digest: As Odia Wikisource turns two, a project to digitize rare books kicks off; news in brief](https://blog.wikimedia.org/2017/03/30/digest-odia-wikisource/). Wikimedia Blog (March 30, 2017)
 * Rezwan. ["A New Audio Uploading Tool for Crowdsourced Wiktionary Project in Odia Language"](https://globalvoices.org/2017/02/12/a-new-audio-uploading-tool-for-crowdsourced-wiktionary-project-in-odia-language/). Global Voices (February 13, 2017)
