@@ -5,7 +5,7 @@ import readline
 import subprocess
 
 os.system('clear')
-print "Welcome to the WordRecord"
+print "Welcome to the Kathabhidhana!"
 
 
 
@@ -33,7 +33,7 @@ def process_word():
 	print "\n"
 	print "\n"
 
-	confirm = raw_input("Happy with the recording? Y/N : ")
+	confirm = raw_input("Recorded? Y/N : ")
 	confirm = confirm.lower()
 	
 	if confirm == 'y':
@@ -53,7 +53,7 @@ def process_word():
 		subprocess.call(["oggenc", '-Q', word + '.wav'])
 
 
-	        play_confirm = raw_input("\nWanna hear the recorded word?:   " + word + " ?  Y/N : ")
+	        play_confirm = raw_input("\nPlay?:   " + word + " ?  Y/N : ")
         	play_confirm = play_confirm.lower()
 
         	if play_confirm == 'y':
@@ -61,7 +61,7 @@ def process_word():
                 	os.system("ogg123 " + word + ".ogg")
 
         	elif play_confirm == 'n':
-                	print "\nHappy? Otherwise choose N in next question. "
+                	print "\nHappy? Type N for next. "
 
 		#play_confirm = "n"
 		
@@ -75,16 +75,16 @@ def process_next_word():
 	print "\n"
 	print "\n"
 
-        next_word = raw_input( "Ready for the next word? Y/N : ")
+        next_word = raw_input( "Next word? Y/N : ")
 
         next_word = next_word.lower()
         if next_word ==  'y':
                 process_word()
                 process_next_word()
         elif next_word ==  'n':
-                print "Thank You"
+                print "Thank you!"
         else:
-                print "Please Enter Y or N"
+                print "Enter Y or N"
 
 
 answer = raw_input("Ready? Y/N : ")
