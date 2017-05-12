@@ -73,7 +73,7 @@ Findings so far
 
 ***Other useful resources***
 * [Pronuncify by Asaf Bartov](https://github.com/abartov/pronuncify), a Kathabhidhana-like command line tool for both Linux/Mac and [Windows](https://github.com/abartov/pronuncify.net).
-* [https://lingualibre.fr/](https://lingualibre.fr/), a web and GUI-based tool for a similar workflow like Kathabhidhana with more functions
+* [LinguaLibre](https://lingualibre.fr/](https://lingualibre.fr/), a web and GUI-based tool developed by the Wikimedia France for a similar workflow like Kathabhidhana with more functions
 
 Attribution
 -----------
