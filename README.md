@@ -19,7 +19,7 @@ Currently several Odia-language words are being [recorded](https://commons.wikim
 
 <i>An Odia version of the resources and tutorial is available [here](https://or.wiktionary.org/s/ppq). We are currently working on building more tutorials so that you can learn more about bettering your home studio setup, tips and tricks about batch renaming files, cleaning up using open source tools like Audacity, setting up files for batch upload on Wikimedia Commons, etc. So stay tuned.</i>
 
-** What Does this toolkit contain? **
+## What Does this toolkit contain?
 * A recording tool ([download for Linux/Mac and iOS](https://github.com/OdiaWikimedia/Kathabhidhana/archive/master.zip), [watch] a video introduction to Kathabhidhana](https://www.youtube.com/watch?v=UGMxwPtqDJY), [watch](https://www.youtube.com/watch?v=F-rmyZqKzrE&feature=youtu.be) a video tutorial for the iOS version)
 * Instruction manual to set up the hardware and software
 * Dependency tools
