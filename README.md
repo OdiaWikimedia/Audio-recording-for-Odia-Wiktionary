@@ -38,7 +38,7 @@ Prerequisites
 * iOS (iPad or iPhone)
 * An app called Workflow
 
-Step-by-step process
+How to use it?
 --------------
 1. Download and set up Kathabhidhana (see the [next section](#setting-up-kathabhidhana))
 2. Set up your recording hardware (see mine in the [picture](https://commons.wikimedia.org/wiki/File:Home-studio_recording_setup_for_Kathabhidhana_(wide).jpg) above) e.g. microphone (if using an external one), computer settings like level
@@ -59,9 +59,11 @@ First dive into the folder, for instance it is the "Kathabhidhana" folder under 
 ![alt tag](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Kathabhidhana_-_starting_the_tool.png/800px-Kathabhidhana_-_starting_the_tool.png)
 
 Then run:
-<code>python voice-record.py</code>
+```
+python voice-record.py
+```
 
-The next steps are quite self-explanatory. You need to choose "Y" for yes and "N" for no in the following options inside your terminal.
+The next steps are quite self-explanatory. You need to choose "<code>Y</code>" for yes and "<code>N</code>" for no in the following options inside your terminal.
 
 3. To upload all the ogg files to Wikimedia Commons
 This will record the sounds in .ogg and .wav formats. You can then use a tool like [Pattypan](https://github.com/yarl/pattypan) to batch-upload either the .WAV or the .ogg files on Wikimedia Commons.
