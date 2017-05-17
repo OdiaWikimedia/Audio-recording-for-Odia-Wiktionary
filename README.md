@@ -75,7 +75,7 @@ Findings so far
 
 ***Other useful resources***
 * [Pronuncify by Asaf Bartov](https://github.com/abartov/pronuncify), a Kathabhidhana-like command line tool for both Linux/Mac and [Windows](https://github.com/abartov/pronuncify.net).
-* [LinguaLibre](https://lingualibre.fr/](https://lingualibre.fr/), a web and GUI-based tool developed by the Wikimedia France for a similar workflow like Kathabhidhana with more functions
+* [LinguaLibre](https://lingualibre.fr/), a web and GUI-based tool developed by the Wikimedia France for a similar workflow like Kathabhidhana with more functions
 
 Attribution
 -----------
@@ -88,3 +88,7 @@ Blogs/media shoutouts
 * Panigrahi, Subhashish. "[A simple command-line tool for recording audio](https://opensource.com/article/17/5/simple-command-line-tool-recording-audio)". Opensource.com (May 12, 2017)
 * Ojha, Bikash. Mishra, Chinmayee. Pattanaik, Prateek. Panigrahi, Subhashish. Patnaik, Sailesh. Elsharbaty, Samir. [Community digest: As Odia Wikisource turns two, a project to digitize rare books kicks off; news in brief](https://blog.wikimedia.org/2017/03/30/digest-odia-wikisource/). Wikimedia Blog (March 30, 2017)
 * Rezwan. ["A New Audio Uploading Tool for Crowdsourced Wiktionary Project in Odia Language"](https://globalvoices.org/2017/02/12/a-new-audio-uploading-tool-for-crowdsourced-wiktionary-project-in-odia-language/). Global Voices (February 13, 2017)
+
+Talks/workshops
+--------
+* [Workshop "Kathabhidhana: Recording words for Wiktionary and preparing for an AI assistant](https://wikimania2017.wikimedia.org/wiki/Submissions/Kathabhidhana:_Recording_words_for_Wiktionary_and_preparing_for_an_AI_assistant)
