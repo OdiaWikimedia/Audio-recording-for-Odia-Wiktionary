@@ -91,4 +91,4 @@ Blogs/media shoutouts
 
 Talks/workshops
 --------
-* [Workshop "Kathabhidhana: Recording words for Wiktionary and preparing for an AI assistant](https://wikimania2017.wikimedia.org/wiki/Submissions/Kathabhidhana:_Recording_words_for_Wiktionary_and_preparing_for_an_AI_assistant)
+* [Workshop "Kathabhidhana: Recording words for Wiktionary and preparing for an AI assistant](https://wikimania2017.wikimedia.org/wiki/Submissions/Kathabhidhana:_Recording_words_for_Wiktionary_and_preparing_for_an_AI_assistant) (*selected for Wikimania 2017, Montreal, Canada. Please join if you are attending Wikimania this year. Check back in late August for more updates about the workshop.*")
