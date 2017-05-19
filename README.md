@@ -25,7 +25,7 @@ Currently several Odia-language words are being [recorded](https://commons.wikim
 * Dependency tools
  * Audacity for a post-recording batch clean up ([Download](http://www.audacityteam.org/download/), you can also check this tutorial in [English](https://www.youtube.com/watch?v=BPiYzFcRFMY), and [Odia](https://www.youtube.com/watch?v=-xnTmHvGC2Y) to clean up vocals for individual recordings)
   * [Pattypan](https://github.com/yarl/pattypan) for batch uploading recorded and edited audio files on Wikimedia Commons
-* [Open dataset](https://docs.google.com/spreadsheets/d/1Vh08Dd6V743Q58ceCnNLc9BASaZQMAsGu1BOaa_dMQQ/edit#gid=1898670638) for reference while creating meta data for your recordings
+* Open dataset: [CSV](https://docs.google.com/spreadsheets/d/1Vh08Dd6V743Q58ceCnNLc9BASaZQMAsGu1BOaa_dMQQ/pub?output=csv), [.ods](https://docs.google.com/spreadsheets/d/1Vh08Dd6V743Q58ceCnNLc9BASaZQMAsGu1BOaa_dMQQ/pub?output=ods) for reference while creating meta data for your recordings
 * [Odia→International Phonetic Alphabet (IPA)/Roman converter](https://or.wikipedia.org/s/14jk) for adding phonetic signs in the metadata while uploading. Thiis converter works only the Odia alphabet. But you can [fork](https://github.com/OdiaWikimedia/Converter#international-phonetic-alphabet-ipa-and-romanlatin-converter) and create one for your writing system too.
 
 Prerequisites
