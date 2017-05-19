@@ -1,5 +1,6 @@
-Kathabhidhana: Open Source toolkit to record large number of words in any language
+Kathabhidhana is an open toolkit to record large number of words in any language
 ===================================
+### It consists of a few Free/Libre and Open Source Software, documentation to learn and use it, and open datasets that you can customize and shape your metadata.
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=UGMxwPtqDJY
 " target="_blank"><img src="http://img.youtube.com/vi/UGMxwPtqDJY/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>  ![alt tag](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Home-studio_recording_setup_for_Kathabhidhana_%28wide%29.jpg/495px-Home-studio_recording_setup_for_Kathabhidhana_%28wide%29.jpg)
