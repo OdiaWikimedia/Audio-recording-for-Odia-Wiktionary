@@ -7,7 +7,7 @@ alt="Click to watch a quick video about this toolkit" width="240" height="180" b
 
 Kathabhidhana is an open toolkit—that consists of a few free/libre and open source software, open datasets, methodologies and documentations—to record a large number of words with metadata. It can be used to record pronunciations of words to make a talking dictionary to record phonemes to create a text-to-speech software.
 
-</a> ![alt tag](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Workflow_of_Kathabhidhana.svg/900px-Workflow_of_Kathabhidhana.svg.png)
+![alt tag](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Workflow_of_Kathabhidhana.svg/900px-Workflow_of_Kathabhidhana.svg.png)
 
 We truly believe in openness and the FLOSS philosophy. So every single component of this toolkit is open. It also contains other dependency FLOSS tools that are built by many kind people in the open source movement.
 
