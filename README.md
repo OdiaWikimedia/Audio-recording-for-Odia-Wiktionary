@@ -2,9 +2,12 @@
 ------------
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=UGMxwPtqDJY
 " target="_blank"><img src="http://img.youtube.com/vi/UGMxwPtqDJY/0.jpg" 
-alt="Click to watch a quick video about this toolkit" width="240" height="180" border="10" /></a> ![alt tag](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Workflow_of_Kathabhidhana.svg/900px-Workflow_of_Kathabhidhana.svg.png)
+alt="Click to watch a quick video about this toolkit" width="240" height="180" border="10" /></a>
 
-What comes to your mind when you think of a dictionary? A huge boring book that you never wanted to open? Or maybe a mobile app that you open while struggling with understanding a few new words in any write-up? But think of a dictionary that also pronounces the words rather than just showing them in [International Phonetic Alphabet](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet) (IPA), and without any advertisements. Also, think of an open source version of Siri or Google Assistant or Kortana that you can not just use but also can change and make it speak your dialect in a human voice. For all of these you would need a huge pronunciation library in an open standard. Furthermore, India, my home country alone is home to 15 million visually disabled people that currently do not have an open source screenreader with a human voice in their language. Kathabhidhana helps you build a huge library of pronunciations of words in your native language. It is tolkit consists of a few Free/Libre and Open Source software, Open Educational Resources (OER) that helps you learn how to use it, open datasets that you can use with modifications to cater your specific need, and everything else that you would need to make your own version by building additional components on the top of it.
+> _Almost half of the 6909 living languages of the world are dying in a century’s time. In India alone, over 220 Indian languages out of the total of 780 languages have died only in last 50 years. With these languages, there dies a wealth of knowledge forever_.
+Kathabhidhana is an open toolkit—that consists of a few free/libre and open source software, open datasets, methodologies and documentations—to record a large number of words with metadata. It can be used to record pronunciations of words to make a talking dictionary to record phonemes to create a text-to-speech software.
+
+</a> ![alt tag](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Workflow_of_Kathabhidhana.svg/900px-Workflow_of_Kathabhidhana.svg.png)
 
 We truly believe in openness and the FLOSS philosophy. So every single component of this toolkit is open. It also contains other dependency FLOSS tools that are built by many kind people in the open source movement.
 
